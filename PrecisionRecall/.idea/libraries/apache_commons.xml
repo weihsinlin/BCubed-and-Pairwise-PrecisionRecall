@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="apache-commons">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/apache-commons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/org.apache.commons.io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/com.google.guava_1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/guava-15.0-rc1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="jar://$PROJECT_DIR$/../lib/com.google.guava_1.6.0.jar!/" />
+    </excluded>
+  </library>
+</component>
